@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Leaqwid
-- 👀 I’m interested in Programming and Gaming.
-- 🌱 I’m currently learning Html,CSS,JavaScript,Bootstrap,React
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : Discord - _atemis
-- 😄 Pronouns: He/Him
+Hello, World!
+👋 Hi, I'm Leaqwid (or Robert).
+💻 I'm passionate about Frontend Development and Gaming.
+⚡ My pronouns are He/Him.
+📅 Born in 2002.
 
 <!---
 Leaqwid/Leaqwid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
